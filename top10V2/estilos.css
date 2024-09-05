@@ -1,0 +1,16 @@
+body{
+    background-color: #000;
+}
+
+h1{
+   text-align: center;
+    color : white;
+}
+h2{
+    color :beige;
+}
+
+p{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color :bisque;
+}
